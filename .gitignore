@@ -1,0 +1,7 @@
+tmp
+__pycache__
+logs
+test.py
+.vscode/settings.json
+.env
+env
