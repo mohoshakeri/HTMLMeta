@@ -1,7 +1,13 @@
-tmp
+.vscode
+.venv
 __pycache__
+tmp
 logs
-test.py
-.vscode/settings.json
+teest.py
 .env
 env
+media
+private
+static
+.idea
+.run
